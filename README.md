@@ -22,19 +22,12 @@ Here's a sneak peek:
 
 
 
-:-------------------------:|:-------------------------:
-<img src="image/1.png" width="250px"/>  |  <img src="image/2.png" width="250px"/> 
-<img src="image/3.png" width="250px"/>  |  <img src="image/4.png" width="250px"/>
-
-
-:-------------------------:|:-------------------------:
-<img src="image/4.png" width="250px"/>  |  <img src="image/4.png" width="250px"/> 
-
-
-:-------------------------:|:-------------------------:
-<img src="image/5.png" width="450px"/>  |  
----
-
+| Column 1                              | Column 2                              |
+|:-------------------------------------:|:-------------------------------------:|
+| <img src="image/1.png" width="250px"/> | <img src="image/2.png" width="250px"/> |
+| <img src="image/3.png" width="250px"/> | <img src="image/4.png" width="250px"/> |
+| <img src="image/4.png" width="250px"/> | <img src="image/4.png" width="250px"/> |
+| <img src="image/5.png" width="450px"/> |                                       |
 ## 🔧 Installation
 
 Follow these steps to set up the project:
