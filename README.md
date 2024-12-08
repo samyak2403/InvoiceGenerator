@@ -22,12 +22,17 @@ Here's a sneak peek:
 
 
 
-|                                       |        
-|:-------------------------------------:|:
-| <img src="image/1.png" width="250px"/> |
-| <img src="image/3.png" width="250px"/> |
-| <img src="image/4.png" width="250px"/> |
-| <img src="image/5.png" width="250px"/> |         
+| ## Screenshots                             |
+|--------------------------------------------|
+| <img src="image/1.png" width="250px"/>     |
+
+| <img src="image/3.png" width="250px"/>     |
+
+| <img src="image/4.png" width="250px"/>     |
+
+| <img src="image/5.png" width="250px"/>     |
+
+       
 ## 🔧 Installation
 
 Follow these steps to set up the project:
