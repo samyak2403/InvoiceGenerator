@@ -24,12 +24,12 @@ Here's a sneak peek:
 
 **TV Channels** | **Live**
 :-------------------------:|:-------------------------:
-<img src="Image/1.png" width="250px"/>  |  <img src="Image/2.png" width="250px"/> 
-<img src="Image/3.png" width="250px"/>  |  <img src="4.png" width="250px"/>
+<img src="image/1.png" width="250px"/>  |  <img src="image/2.png" width="250px"/> 
+<img src="image/3.png" width="250px"/>  |  <img src="image/4.png" width="250px"/>
 
 **TV Channels** | **Live**
 :-------------------------:|:-------------------------:
-<img src="Image/4.png" width="450px"/>  |  <img src="Image/4.png" width="450px"/> 
+<img src="image/4.png" width="450px"/>  |  <img src="image/4.png" width="450px"/> 
 
 **TV Mode** | **Live**
 :-------------------------:|:-------------------------:
