@@ -19,7 +19,21 @@ Welcome to the **Invoice Generator**! 🎉 This project simplifies invoice creat
 
 Here's a sneak peek:  
 ![Invoice Preview](https://via.placeholder.com/800x400.png?text=Invoice+Preview)
+# 5-Row by 2-Column Grid with Images
 
+
+**TV Channels** | **Live**
+:-------------------------:|:-------------------------:
+<img src="Image/1.png" width="250px"/>  |  <img src="Image/2.png" width="250px"/> 
+<img src="Image/3.png" width="250px"/>  |  <img src="4.png" width="250px"/>
+
+**TV Channels** | **Live**
+:-------------------------:|:-------------------------:
+<img src="Image/4.png" width="450px"/>  |  <img src="Image/4.png" width="450px"/> 
+
+**TV Mode** | **Live**
+:-------------------------:|:-------------------------:
+<img src="5.png" width="450px"/>  |  
 ---
 
 ## 🔧 Installation
