@@ -25,11 +25,8 @@ Here's a sneak peek:
 | ## Screenshots                             |
 |--------------------------------------------|
 | <img src="image/1.png" width="250px"/>     |
-
 | <img src="image/3.png" width="250px"/>     |
-
 | <img src="image/4.png" width="250px"/>     |
-
 | <img src="image/5.png" width="250px"/>     |
 
        
