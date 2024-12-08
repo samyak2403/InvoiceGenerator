@@ -96,7 +96,7 @@ This project is licensed under the [MIT License](LICENSE).
 ## 📬 Support
 
 Got questions or need help? Reach out:  
-📧 Email: [samyak@example.com](mailto:samyak@example.com)  
+📧 Email: [arrowwould0@gmail.com](mailto:arrowwould0@gmail.com)  
 🐞 Report bugs: [GitHub Issues](https://github.com/samyak2403/InvoiceGenerator/issues)  
 
 ---
